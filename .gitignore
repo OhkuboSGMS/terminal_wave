@@ -1,0 +1,4 @@
+# Project exclude paths
+/node_modules/
+/wave.js
+/wave.js.map
